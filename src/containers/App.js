@@ -3,7 +3,7 @@ import CardList from '../components/CardList.js';
 import SearchBox from '../components/SearchBox'
 import {robots} from './robots';
 import Scroll from '../components/Scroll';
-
+import ErrorBoundry from '../components/ErrorBoundry';
 class App extends Component{
     constructor(){
         super()
@@ -44,7 +44,9 @@ componentDidMount(){
                         <h1 className='f1'>Trifon's RoboFriends</h1>
                         <SearchBox searchChange= {this.onSearchChange}/>
                         <Scroll>
-                        <CardList robots={filteredRobots} />
+                            <ErrorBoundry>
+                                 <CardList robots={filteredRobots} />
+                            </ErrorBoundry>                        
                         </Scroll>                  
                     </div>
             
