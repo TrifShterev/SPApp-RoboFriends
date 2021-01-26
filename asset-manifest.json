@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SPApp-RoboFriends/static/css/main.d144235c.chunk.css",
+    "main.js": "/SPApp-RoboFriends/static/js/main.2c950eb3.chunk.js",
+    "main.js.map": "/SPApp-RoboFriends/static/js/main.2c950eb3.chunk.js.map",
+    "runtime-main.js": "/SPApp-RoboFriends/static/js/runtime-main.3461b1fc.js",
+    "runtime-main.js.map": "/SPApp-RoboFriends/static/js/runtime-main.3461b1fc.js.map",
+    "static/css/2.31461e4f.chunk.css": "/SPApp-RoboFriends/static/css/2.31461e4f.chunk.css",
+    "static/js/2.78274288.chunk.js": "/SPApp-RoboFriends/static/js/2.78274288.chunk.js",
+    "static/js/2.78274288.chunk.js.map": "/SPApp-RoboFriends/static/js/2.78274288.chunk.js.map",
+    "static/js/3.9b3da037.chunk.js": "/SPApp-RoboFriends/static/js/3.9b3da037.chunk.js",
+    "static/js/3.9b3da037.chunk.js.map": "/SPApp-RoboFriends/static/js/3.9b3da037.chunk.js.map",
+    "index.html": "/SPApp-RoboFriends/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/SPApp-RoboFriends/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.d144235c.chunk.css.map": "/SPApp-RoboFriends/static/css/main.d144235c.chunk.css.map",
+    "static/js/2.78274288.chunk.js.LICENSE.txt": "/SPApp-RoboFriends/static/js/2.78274288.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3461b1fc.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.78274288.chunk.js",
+    "static/css/main.d144235c.chunk.css",
+    "static/js/main.2c950eb3.chunk.js"
+  ]
+}
